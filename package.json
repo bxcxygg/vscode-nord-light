@@ -1,11 +1,11 @@
 {
-    "name": "nord-light",
-    "displayName": "Nord Light",
-    "description": "Nord Light color theme",
-    "repository": "https://github.com/huytd/vscode-nord-light",
+    "name": "cyan-light",
+    "displayName": "cyan Light",
+    "description": "cyan Light color theme",
+    "repository": "https://github.com/bxcxygg/vscode-nord-light",
     "icon": "icon.png",
     "version": "0.1.1",
-    "publisher": "huytd",
+    "publisher": "bxcxygg",
     "engines": {
         "vscode": "^1.15.0"
     },
@@ -15,14 +15,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Nord Light",
+                "label": "Cyan Light",
                 "uiTheme": "vs",
                 "path": "./themes/Nord Light-color-theme.json"
-            },
-            {
-                "label": "Nord Light Brighter",
-                "uiTheme": "vs",
-                "path": "./themes/Nord Light Brighter-color-theme.json"
             }
         ]
     }
