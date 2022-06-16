@@ -142,8 +142,8 @@
     "textBlockQuote.background": "#fafbfc",
     "textBlockQuote.border": "#e1e4e8",
     "textCodeBlock.background": "#f6f8fa",
-		"textLink.activeForeground": "#032F62",
-		"textLink.foreground": "#032F62",
+    "textLink.activeForeground": "#032F62",
+    "textLink.foreground": "#032F62",
     "textPreformat.foreground": "#586069",
     "textSeparator.foreground": "#d1d5da",
     "titleBar.activeBackground": "#e5e9f0",
@@ -477,7 +477,7 @@
     {
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#3B4252"
+        "foreground": "#6C36A9"
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "scope": "keyword, keyword.control",
       "settings": {
-        "foreground": "#0D7579"
+        "foreground": "#9B2393"
       }
     },
     {
@@ -517,9 +517,15 @@
       }
     },
     {
-      "scope": "entity.name.function, meta.require, support.function.any-method",
+      "scope": "entity.name.function",
       "settings": {
-        "foreground": "#0D7579"
+        "foreground": "#6C36A9"
+      }
+    },
+    {
+      "scope": "entity.name.method, meta.require, support.function.any-method",
+      "settings": {
+        "foreground": "#6C36A9"
       }
     },
     {
@@ -549,7 +555,7 @@
     {
       "scope": "string, constant.other.symbol, entity.other.inherited-class",
       "settings": {
-        "foreground": "#509546"
+        "foreground": "#C41A16"
       }
     },
     {
@@ -561,13 +567,13 @@
     {
       "scope": "constant",
       "settings": {
-        "foreground": "#3B4252"
+        "foreground": "#6C36A9"
       }
     },
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#0D7579"
+        "foreground": "#6C36A9"
       }
     },
     {
@@ -679,7 +685,7 @@
         "entity.name"
       ],
       "settings": {
-        "foreground": "#509546"
+        "foreground": "#326D74"
       }
     },
     {
